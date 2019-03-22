@@ -47,6 +47,14 @@ III. need library:
 
 <hr>
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ###  Main
 ```flow
 st=>start: start
