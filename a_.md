@@ -16,6 +16,8 @@ ebook:
 ![mermaid](mermaid-diagram-20190325121825.svg
 )
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 ```mermaid
 graph TD;
     A-->B;
