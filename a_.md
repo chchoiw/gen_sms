@@ -8,6 +8,7 @@ ebook:
 ## how are you
 ## better notice
 ## next
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)[]()
 ![Bilby Stampede](http://example.com/images/logo.png)
 
