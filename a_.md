@@ -4,7 +4,8 @@ ebook:
     authors: shd101wyy
 ---  
   
-  
+ [![Alt text](/path/to/img.jpg)](mermaid-diagram-20190325121825.svg)
+
 ## how are you
 ## better notice
 ## next
